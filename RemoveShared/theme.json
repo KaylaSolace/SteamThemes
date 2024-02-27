@@ -2,6 +2,7 @@
   "name": "Remove shared images from game activity",
   "manifest_version": 8,
   "version": "2024.02.27",
+  "target": "Desktop-Library",
   "inject": {
     "shared.css": [
       "SteamLibraryWindow"
