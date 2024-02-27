@@ -1,0 +1,12 @@
+{
+  "name": "Remove shared images from game activity",
+  "manifest_version": 8,
+  "version": "2024.02.27",
+  "inject": {
+    "shared.css": [
+      "SteamLibraryWindow"
+    ]
+  },
+  "author": "Kayla Solace",
+  "id": "771e08cc-0144-4f61-8f00-753586a2c65c"
+}

@@ -1,0 +1,3 @@
+[class*="appactivityday_ScreenshotCarousel"], [class*="appactivityday_VideoCarousel"] {
+    display: none;
+}
